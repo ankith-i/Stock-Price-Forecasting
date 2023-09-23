@@ -81,4 +81,4 @@ Future enhancements can be:
 
 ## Contact & Feedback
 
-For queries or feedback, please email at [ankithindrakumar@example.com](mailto:ankithindrakumar@example.com).
+For queries or feedback, please email at [ankithindrakumar@gmail.com](mailto:ankithindrakumar@gmail.com).
